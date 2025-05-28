@@ -5,5 +5,4 @@ Some details about project
 Now we have admin panel in /admin
 
 
-
-some shit readme
+now we have authentication
